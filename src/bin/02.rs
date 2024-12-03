@@ -1,7 +1,5 @@
 use std::ops::Sub;
 
-use aoc_parse::{parser, prelude::*};
-
 advent_of_code::solution!(2);
 
 pub fn part_one(input: &str) -> Option<u32> {
